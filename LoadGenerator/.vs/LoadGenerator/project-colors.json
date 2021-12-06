@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1dd05c81-f5d4-45aa-a83f-80f32bfd9411": {
+      "ProjectGuid": "1dd05c81-f5d4-45aa-a83f-80f32bfd9411",
+      "DisplayName": "LoadGenerator",
+      "ColorIndex": 0
+    },
+    "bc097e60-5829-465d-ae47-4ad61be95575": {
+      "ProjectGuid": "bc097e60-5829-465d-ae47-4ad61be95575",
+      "DisplayName": "Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
